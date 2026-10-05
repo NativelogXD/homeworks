@@ -1,0 +1,29 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Frontend
+node_modules/
+dist/
+.npm/
+
+# Database files
+*.db-shm
+*.db-wal
+test.db*
+agent-relay.db*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
